@@ -3,7 +3,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>tabla de sumar</title>
+    <title> de sumar</title>
 </head>
 <body>
 <form method="post">
